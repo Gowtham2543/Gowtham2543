@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gowtham2543
-- 👀 I’m interested in Operating systemm, app development and networking 
+- 👀 I’m interested in Operating system, app development and networking 
 - 🌱 I’m currently learning OS development
 <!-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
